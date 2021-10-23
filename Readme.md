@@ -7,7 +7,6 @@
 
 
 - ⚡ JAI BAJRANG BALI
-- 👨‍💻 You can also check out my portfolio at []()
 - 📫 How to reach me **tusharagarwal365@gmail.com** 
 - 🔭 I’m currently working on my college project.
 - 🌱 New at coding .
