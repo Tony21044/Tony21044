@@ -10,11 +10,11 @@
 - 📫 How to reach me **tusharagarwal365@gmail.com**
 - 
 - 🔭 I’m currently working on my college project.
-- 🌱 I’m currently learning Backend.
-- 👯 I’m looking to collaborate on ...
+- 🌱 New at coding .
+- 👯 Learning New things everyday.
 - 🤔 I’m looking for help with ttms erp.
-- 💬 Ask me about web dev.
+- 💬 Ask me about web dev + Some fitness tips.
 - 📫 How to reach me: 
 - 😄 Pronouns: He/His/Tushar!
-- ⚡ Fun fact: I spent the whole day playing Games on the internet.
+- ⚡ In Love with Gym+Training!!
 
