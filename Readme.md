@@ -2,9 +2,9 @@
 <h3 align="center">A Passionate Software Developer with a Keen Interest in Coding and Fitness</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200" alt="Coding GIF">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="200" alt="Gym Training GIF">
-  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="200" alt="Naruto GIF">
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF">
+ 
 </p>
 
 <p align="center">
